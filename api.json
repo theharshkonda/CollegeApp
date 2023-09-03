@@ -1,50 +1,50 @@
 [
-{
-"id":"1"
-"uri":"https://d1p9wirkq0k00v.cloudfront.net/wp-content/uploads/2017/09/25142902/Capgemini_Logo_2COL_CMYK.png",
-},
-{
-"id":"2"
-"uri":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwdIV1URhwr4kfn_3pCxUKuOXKOIfgwj_uoIuXX0w&usqp=CAE&s",
-},
-{
-"id":"3"
-"uri":"https://companieslogo.com/img/orig/TCS.NS-7401f1bd.png?t=1631949260",
-},
-{
-"id":"4"
-"uri":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxk-gC8anjc_dABorevyvaSFxwVvhcrIqokhvAXE&usqp=CAE&s",
-},
-{
-"id":"5"
-"uri":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndnIMjnWRmISWN2YOvno-QPDLpN2xc12aSD9Gsk&usqp=CAE&s",
-},
-{
-"id":"6"
-"uri":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcPd-PpNKvKvUvzxBJWva2JaDI1ikQWkJ92LZFdY&usqp=CAE&s",
-},
-{
-"id":"7"
-"uri":"https://companieslogo.com/img/orig/PERSISTENT.NS_BIG-8fb78ddd.png?t=1604067042",
-},
-{
-"id":"8"
-"uri":"https://companieslogo.com/img/orig/PTC_BIG-b1ef532e.png?t=1659678937",
-},
-{
-"id":"9"
-"uri":"https://companieslogo.com/img/orig/HPE_BIG-6ef60a58.png?t=1665029278",
-},
-{
-"id":"10"
-"uri":"https://companieslogo.com/img/orig/6501.T_BIG-7e3c3e7c.png?t=1691893046",
-},
-{
-"id":"11"
-"uri":"https://companieslogo.com/img/orig/HEXAWARE.NS_BIG-3c8842d4.png?t=1604067036",
-},
-{
-"id":"12"
-"uri":"https://hackathon.tvois.vodafone.com/assets/_vois_white.png",
-},
+  {
+    "id": "1",
+    "uri": "https://d1p9wirkq0k00v.cloudfront.net/wp-content/uploads/2017/09/25142902/Capgemini_Logo_2COL_CMYK.png"
+  },
+  {
+    "id": "2",
+    "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwdIV1URhwr4kfn_3pCxUKuOXKOIfgwj_uoIuXX0w&usqp=CAE&s"
+  },
+  {
+    "id": "3",
+    "uri": "https://companieslogo.com/img/orig/TCS.NS-7401f1bd.png?t=1631949260"
+  },
+  {
+    "id": "4",
+    "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxk-gC8anjc_dABorevyvaSFxwVvhcrIqokhvAXE&usqp=CAE&s"
+  },
+  {
+    "id": "5",
+    "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndnIMjnWRmISWN2YOvno-QPDLpN2xc12aSD9Gsk&usqp=CAE&s"
+  },
+  {
+    "id": "6",
+    "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcPd-PpNKvKvUvzxBJWva2JaDI1ikQWkJ92LZFdY&usqp=CAE&s"
+  },
+  {
+    "id": "7",
+    "uri": "https://companieslogo.com/img/orig/PERSISTENT.NS_BIG-8fb78ddd.png?t=1604067042"
+  },
+  {
+    "id": "8",
+    "uri": "https://companieslogo.com/img/orig/PTC_BIG-b1ef532e.png?t=1659678937"
+  },
+  {
+    "id": "9",
+    "uri": "https://companieslogo.com/img/orig/HPE_BIG-6ef60a58.png?t=1665029278"
+  },
+  {
+    "id": "10",
+    "uri": "https://companieslogo.com/img/orig/6501.T_BIG-7e3c3e7c.png?t=1691893046"
+  },
+  {
+    "id": "11",
+    "uri": "https://companieslogo.com/img/orig/HEXAWARE.NS_BIG-3c8842d4.png?t=1604067036"
+  },
+  {
+    "id": "12",
+    "uri": "https://hackathon.tvois.vodafone.com/assets/_vois_white.png"
+  }
 ]
